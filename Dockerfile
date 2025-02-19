@@ -1,6 +1,3 @@
-# This is a placeholder file.
-#
-# Update this Dockerfile to build the app in the repo
-
-FROM nginx:alpine
-RUN "Hi there" > /usr/share/nginx/html/index.html
+FROM nginx:latest
+MAINTAINER Harsh Manvar & Ajeet Raina
+COPY . /usr/share/nginx/html

@@ -1,4 +1,4 @@
-## 🎯 A Template for building Docker Guides' Samples Apps
+## 🎯 AI Sanke Game with Docker & TensorFlow.js
 
 1. [Sample README Content](#sample-readme-content)
    - [Project Title](#project-title)
@@ -14,10 +14,6 @@
 This page outlines the requirements for code repositories in the `dockersamples` organization. These repositories are meant to support Docker guides and blogs at this point.
 
 If you have any questions, please contact `#docs` on the [Docker Community Slack](https://communityinviter.com/apps/dockercommunity/docker-community).
-
-### PLEASE REMOVE THIS SECTION ONCE YOU CLONE THIS REPO
-
-This section provides instructions for using the template. Please remove this "Samples Repo Templates for Docker Guides" section from the README file after cloning the repository to ensure your guide is clean and tailored to your specific application.
 
 ### For a new repository
 
