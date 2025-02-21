@@ -14,7 +14,7 @@ If you have any questions, please contact `#docs` on the [Docker Community Slack
 
 This project demonstrates an AI-powered Snake game with TensorFlow.js. Game allowing users to either play manually or let the AI control the snake.
 
-![snake-game](https://github.com/user-attachments/assets/6657078f-be16-4679-bb0a-565e6c8e1d0a)
+<img src="https://github.com/user-attachments/assets/6657078f-be16-4679-bb0a-565e6c8e1d0a" width="300">
 
 
 ## Project Structure
