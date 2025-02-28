@@ -8,8 +8,6 @@
 2. [License](#license)
 3. [Contributing](#contributing)
 
-If you have any questions, please contact `#docs` on the [Docker Community Slack](https://communityinviter.com/apps/dockercommunity/docker-community).
-
 ## Overview
 
 This project demonstrates an AI-powered Snake game with TensorFlow.js. Game allowing users to either play manually or let the AI control the snake.
@@ -83,3 +81,6 @@ This project is licensed under the [Apache 2.0 License](/LICENSE).
 ## Contributing
 
 Since this project is intended to support a specific use case guide, contributions are limited to bug fixes or security issues. If you have a question, feel free to open an issue!
+
+If you have any questions, please contact `#docs` on the [Docker Community Slack](https://communityinviter.com/apps/dockercommunity/docker-community).
+
