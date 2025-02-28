@@ -30,58 +30,33 @@ This project demonstrates an AI-powered Snake game with TensorFlow.js. Game allo
 ### 1. Clone the repository
 
  ```
- git clone https://github.com/dockersamples/Snake-AI-TensorFlow-Docker.git
+ git clone https://github.com/dockersamples/snake-game-tensorflow-docker
  ```
 
 ### 2. Navigate to the project directory:
 
 ```
-cd Snake-AI-TensorFlow-Docker
+cd snake-game-tensorflow-docker
 ```
 
-### 3. Install http-server
-        
-```
-npm i http-server
-```
 
-OR
-        
-```
-pip install httpserver
-```
+### 3. Using Docker Compose
 
-### 4. Run command `http-server` root where `index.html` 
+Bring up the application
 
 ```
-http-server
-```
-      
-OR
-      
-```
-httpserver
+docker compose up -d 
 ```
 
-### 5. Open browser `http://localhost:{port}` as per http-server 
+### 4. Access the application 
 
-### 6. Click on Start Game
+Open your web browser and access the following URL:
 
-#### Building the Docker Image
-
-```
-docker build --platform linux/amd64,linux/arm64  -t sanke-game-ai:v1 .
-```
-
-#### Running  the Container
 
 ```
-docker run -p 8080:80 sanke-game-ai:v1
+http://localhost:8080
 ```
 
-Open URL in browser
-
-`http://localhost:8080`
 
 ## License
 This project is licensed under the [Apache 2.0 License](/LICENSE).
