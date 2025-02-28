@@ -16,7 +16,7 @@ This project demonstrates an AI-powered Snake game with TensorFlow.js. Game allo
 
 
 ## Project Structure
-[Describe the directory structure of the project repository]
+
 
 - **index.html** - Main webpage hosting the game interface & loads library
 - **ai.js** - AI model integration and decision-making
