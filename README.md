@@ -1,4 +1,4 @@
-## 🎯 AI Sanke Game with Docker & TensorFlow.js
+## 🎯 AI Snake Game with Docker & TensorFlow.js
 
 1. [ README Content](#sample-readme-content)
    - [Project Title](#project-title)
