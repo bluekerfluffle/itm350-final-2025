@@ -30,26 +30,26 @@ This project demonstrates an AI-powered Snake game with TensorFlow.js. Game allo
 ### 1. Clone the repository
 
  ```
-   git clone https://github.com/dockersamples/Snake-AI-TensorFlow-Docker.git
+ git clone https://github.com/dockersamples/Snake-AI-TensorFlow-Docker.git
  ```
 
 ### 2. Navigate to the project directory:
 
 ```
- cd Snake-AI-TensorFlow-Docker
+cd Snake-AI-TensorFlow-Docker
 ```
 
 ### 3. Install http-server
         
-   ```
-   npm i http-server
-   ```
+```
+npm i http-server
+```
 
-   OR
+OR
         
-   ```
-   pip install httpserver
-   ```
+```
+pip install httpserver
+```
 
 ### 4. Run command `http-server` root where `index.html` 
 
