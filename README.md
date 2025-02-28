@@ -30,7 +30,7 @@ This project demonstrates an AI-powered Snake game with TensorFlow.js. Game allo
 ### 1. Clone the repository
 
  ```bash
-   git clone https://github.com/harsh4870/Snake-AI-TensorFlow-Docker.git
+   git clone https://github.com/dockersamples/Snake-AI-TensorFlow-Docker.git
  ```
 
 ### 2. Navigate to the project directory:
