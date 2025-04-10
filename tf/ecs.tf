@@ -12,7 +12,7 @@ resource "aws_ecs_task_definition" "app" {
   container_definitions = jsonencode([
     {
       name      = "snake"
-      image     = "<your-dockerhub-username>/snake-game:latest"
+      image     = "bluekerfluffle/snake-game:latest"
       portMappings = [{ containerPort = 80, hostPort = 80 }]
     }
   ])
